@@ -34,6 +34,7 @@ button:hover {
   background: #222;
   color: #fff;
   overflow: hidden;
+  background-color: #007bb5;
 }
 
 .header-logo,
